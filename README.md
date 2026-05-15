@@ -4,7 +4,7 @@ A beginner-friendly reference guide to understanding how AI actually works.
 60+ terms across 8 categories — from tokens and transformers to scaling laws and hardware.
 
 ## Live site
-[View the glossary here](https://yourusername.github.io/ai-glossary)
+[View the glossary here](https://walkerunderwood322-ui.github.io/ai-glossary)
 
 ## What's inside
 - Data & Tokens
